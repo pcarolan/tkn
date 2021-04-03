@@ -1,0 +1,4 @@
+- Android phone can be NFC reader
+- jwt tokens
+- buttons, tokens
+- If you want a high performance NFC tag, the best choice today are the NTAG203 tags.
